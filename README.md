@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 this is Noor
 
 <!--
 **noor188/noor188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software developer with a master in computer science
+
+get to know me: https://noor188.github.io/Hello-I-am-Noor
+
