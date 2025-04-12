@@ -1,21 +1,11 @@
-## Hi there 👋 this is Noor
+### Hi, I'm Noor 👋
 
-<!--
-**noor188/noor188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer
 
-Here are some ideas to get you started:
+🛠️ Tools & Tech I use:  
+Java | Spring Boot | Python | MySQL | JavaScript | Git | CI/CD | HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s connect:  
+[noormmlk@gmail.com] | [Portfolio](https://noor188.github.io/Hello-I-am-Noor)
 
-I am a software developer with a master in computer science
-
-get to know me: https://noor188.github.io/Hello-I-am-Noor
 
