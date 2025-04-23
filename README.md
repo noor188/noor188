@@ -7,7 +7,7 @@ I am actively looking for a job as:
 + Software developer, Software engineer, Full stack developer, Backend developer
 
 🛠️ Tools & Tech I use:  
-Java | MySQL | Spring Boot | Python | JavaScript | Git | CI/CD | HTML/CSS | Functional programming
+Java | MySQL | Spring Boot | Python | JavaScript | Git | HTML/CSS | JavaScripts | Functional programming | 
 
 🚀 Recent Projects:  
 - [**Drawing Player**](https://github.com/noor188/Drawing-Player-application) – Java + Spring Boot - An interactive game draw shapes and play music ---  Coming soon 🪄💕
