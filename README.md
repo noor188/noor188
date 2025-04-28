@@ -1,6 +1,6 @@
 ### Hi, I'm Noor 👋
 
-I'm a software developer, I build applications for fun 😁
+I'm a developer, I build applications for fun 😁
  
 I am actively looking for a job as:
 
