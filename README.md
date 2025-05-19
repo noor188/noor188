@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Drawing Player](https://github.com/noor188/Drawing-Player-application)
 
-- 🌱 I’m currently learning **Backend, DOM manipulation, and data analysis**
+- 🌱 I’m currently learning **Backend, DOM manipulation, AI and data analysis**
 
 - 👯 I’m looking to collaborate on [Beats-By-Dre](https://github.com/noor188/Beats-By-Dre)
 
