@@ -9,9 +9,11 @@
 
 - 👯 I’m looking to collaborate on [Beats-By-Dre](https://github.com/noor188/Beats-By-Dre)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://noor188.github.io/my-portfolio/#projects)
+- 👨‍💻 All of my projects are available at [Portfolio](https://noor188.github.io/my-portfolio/#projects)   AgentHacks
 
-- 💬 Ask me about **Spring Boot, Java basics, REST API**
+- 💬 Hackathons **AgentHacks2025**
+
+- 💬 Ask me about **Spring Boot, Java basics, REST API, and AI**
 
 - 📫 How to reach me **noormmlk@gmail.com**
 
