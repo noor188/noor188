@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor188&label=Profile%20views&color=0e75b6&style=flat" alt="noor188" /> </p>
 
-- 🔭 I’m currently working on [Drawing Player](https://github.com/noor188/Drawing-Player-application)
+- 🔭 I’m currently working on [AI with python](https://github.com/noor188/Harvard-University-Artificial-Intelligence)
 
 - 🌱 I’m currently learning **Backend, DOM manipulation, AI and data analysis**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://noor188.github.io/my-portfolio/#projects)  
 
-- 💬 Hackathons **AgentHacks2025**
+- 💬 <a href="https://github.com/noor188/Hackathons">Hackathons</a>
 
 - 💬 Ask me about **Spring Boot, Java basics, REST API, and AI**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BBOE4e98zbrD0QU2cx8cjqFPm_6mVxMA/view?usp=sharing)
 
-- ⚡ Fun fact **I read theory for fun**
+- ⚡ Fun fact **I like escape rooms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
