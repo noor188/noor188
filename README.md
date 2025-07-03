@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor188&label=Profile%20views&color=0e75b6&style=flat" alt="noor188" /> </p>
 
-- 🔭 I’m currently working on [AI with python](https://github.com/noor188/Harvard-University-Artificial-Intelligence)
+- 🔭 I’m currently working on AI engineering and full stack projects
 
-- 🌱 I’m currently learning **Backend, DOM manipulation, AI and data analysis**
+- 🌱 I’m currently learning **Backend,AI and data analysis**
 
 - 👯 I’m looking to collaborate on [Beats-By-Dre](https://github.com/noor188/Beats-By-Dre)
 
